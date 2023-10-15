@@ -1,0 +1,27 @@
+4
+Student
+Petukhova Ekaterina Alekseevna
+1141
+Programmist
+3
+4.75
+Teacher
+Klimenko Alexsander Alekseevich
+3
+1141
+1142
+1144
+2
+Kompilyator
+Russian mathematik
+Worker
+Skakun Danil Nikolaevich
+Rektor
+89041326833
+SUAP
+Student
+Mishina Elizaveta Dmitrievna
+1142
+Manager
+3
+4.5
