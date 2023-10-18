@@ -1,2 +1,8 @@
-﻿  Main.cpp
-  Trash.vcxproj -> C:\Users\honor\source\repos\Trash\x64\Debug\Trash.exe
+﻿  Base.cpp
+  Main.cpp
+  Student.cpp
+  Teacher.cpp
+  University.cpp
+  Worker.cpp
+  Создание кода...
+  Trash.vcxproj -> C:\Users\honor\source\repos\lab1TP\x64\Debug\Trash.exe

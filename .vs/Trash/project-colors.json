@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a129d821-e00e-4e53-bd8f-ee4e0f7bb188": {
+      "ProjectGuid": "a129d821-e00e-4e53-bd8f-ee4e0f7bb188",
+      "DisplayName": "Trash",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -59,10 +59,8 @@ int main()
 			count++;
 		}
 		if (c == 'w')
-		{
-			system("cls");
-			count--;
-		}
+		{system("cls");
+			count--;}
 		if (count == 0)
 		{
 			count = 8;
@@ -145,10 +143,7 @@ int main()
 				one.Redakt();
 				cout << "0-Вернутся в меню: ";
 				c1 = _getch();
-				if (c1 == '0')
-				{
-					system("cls");
-				}
+				if (c1 == '0'){system("cls");}
 				count = 1;
 			}
 			if (count == 7)
